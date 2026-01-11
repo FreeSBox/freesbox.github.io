@@ -31,6 +31,9 @@ weight: 1
 ### [Food and Household items](https://steamcommunity.com/sharedfiles/filedetails/?id=108024198)
 Позволяет накручивать очень много HP.
 
+### [GWS Inventory System](https://steamcommunity.com/sharedfiles/filedetails/?id=2340992735)
+По большей части не нужен и вызывает проблемы у игроков.
+
 ### Все моды на модели игроков
 Заменены на wardrobe.
 
