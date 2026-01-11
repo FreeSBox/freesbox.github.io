@@ -14,6 +14,18 @@ Checks if the player is in build mode.
 <br>
 Checks if the player is in pvp mode.
 
+- ![(Shared)](/states/shared.png) `Player:isGhostBanned()`
+<br>
+Checks if the player is ghostbanned.
+
+- ![(Shared)](/states/shared.png) `Player:getGhostBannedBySteamID64()`
+<br>
+Returns the steamid64 of the admin that ghostbanned this player.
+
+- ![(Shared)](/states/shared.png) `Player:getGhostBanDescription()`
+<br>
+Returns the reason for the ghostban.
+
 - ![(Shared)](/states/shared.png) `Player:getPVPModeEndTime()`
 <br>
 Gets the time when the player will leave PVP mode. <br>
