@@ -9,6 +9,12 @@ title: "Lua"
 > <br>
 > This is mostly an internal API and can change at any time.
 
+# Custom autorun
+
+Have you ever wanted your ~~cheats~~ scripts to run automatically when you join the server?
+Simply put your lua scripts into `lua/fsb/client/` or `lua/fsb/` and the server will load them.
+This is called after all FSB scripts have loaded.
+
 # Hooks
 
 - ![(Server)](/states/server.png) `FSBEnterPVP(player)`
