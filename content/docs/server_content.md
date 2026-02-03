@@ -41,6 +41,7 @@ title: "Контент сервера"
 - [pac3](https://github.com/CapsAdmin/pac3)
 - [physgun-build-mode](https://github.com/FreeSBox/physgun-build-mode)
 - [playablepiano](https://github.com/macdguy/playablepiano)
+- [cfc_midi_interface](https://github.com/CFC-Servers/cfc_midi_interface)
 - [precision-alignment](https://github.com/ACF-Team/precision-alignment)
 - [precision-tool](https://github.com/generalwrex/precision-tool)
 - [Primitive](https://github.com/shadowscion/Primitive)
