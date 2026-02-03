@@ -2,6 +2,8 @@ languageCode = 'en-us'
 title = 'FreeSBox'
 theme = 'hugo-book'
 
+copyright = '[© WTFPL](https://www.wtfpl.net/txt/copying/)'
+
 [markup]
 	[markup.goldmark.renderer]
 		unsafe = true
