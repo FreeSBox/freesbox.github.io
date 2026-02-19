@@ -97,7 +97,7 @@ title: "Контент сервера"
 - [Advanced Fishing Rod Swep (Updated 2021)](https://steamcommunity.com/sharedfiles/filedetails/?id=1432407131)
 - [Quick Throw Hand Grenades (And Also Quick Place SLAMs)](https://steamcommunity.com/sharedfiles/filedetails/?id=3081411045)
 - [New Door sTool](https://steamcommunity.com/sharedfiles/filedetails/?id=492451687)
-- [Liberty City // GLIDE](https://steamcommunity.com/sharedfiles/filedetails/?id=3542961565)
+- [Liberty City // Glide](https://steamcommunity.com/sharedfiles/filedetails/?id=3542961565)
 - [gm_SnowyVillage](https://steamcommunity.com/sharedfiles/filedetails/?id=2312955132)
 - [Turret Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=107214517)
 - [Collision Resizer (ENHANCED)](https://steamcommunity.com/sharedfiles/filedetails/?id=217376234)
@@ -114,7 +114,10 @@ title: "Контент сервера"
 - [GM BuildSpase E3](https://steamcommunity.com/sharedfiles/filedetails/?id=1398941472)
 - [GM Range F4 Day](https://steamcommunity.com/sharedfiles/filedetails/?id=613435509)
 - [GM_Pacific_Island_A3](https://steamcommunity.com/sharedfiles/filedetails/?id=519578546)
-- [Barricade SWEP](https://steamcommunity.com/sharedfiles/filedetails/?id=2953413221)
+- [ActMod](https://steamcommunity.com/sharedfiles/filedetails/?id=2538387266)
+- [Base Anim-AM4](https://steamcommunity.com/sharedfiles/filedetails/?id=2615656036)
+- [[ActMod] More Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=3567487307)
+
 
 ### Binary modules
 
@@ -125,5 +128,5 @@ Used in EPOE.
 - [gmsv_remove_restrictions](https://github.com/FreeSBox/gmsv_remove_restrictions)
 Позволяет заходить на сервер без Steam версии игры, позволяет выключать сервер через lua.
 - [gmsv_tickrate](https://github.com/FreeSBox/gmsv_tickrate)
-Let's you see the how long the current tick took.
+Lets you see the how long the current tick took.
 
