@@ -16,11 +16,11 @@ title: "Поиск лагов"
 2. Каждый [проникающий](https://wiki.facepunch.com/gmod/PhysObj:IsPenetrating) проп добавляет 16 попугаев
 3. Каждый constraint добавляет 0.5 попугаев
 4. Каждый wire gate добавляет 1 попугай
-5. Каждый E2/SF chip добавляет execution time in ms*2 попугаев
+5. Каждый E2/FPGA/SF chip добавляет execution time in ms*2 попугаев
 
 ## Команда `findchips`
 
-Выдаёт все Expression 2/Starfall чипы на сервере.
+Выдаёт все Expression 2/FPGA/Starfall чипы на сервере.
 
 Пример вывода команды:
 ```
