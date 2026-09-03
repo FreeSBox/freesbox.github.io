@@ -7,6 +7,8 @@ layout: landing
 
 # FreeSBox wiki {anchor=false}
 
+![nerd](/media/nerd.gif)
+
 {{<button href="/docs">}}Explore{{</button>}}
 
 </div>
