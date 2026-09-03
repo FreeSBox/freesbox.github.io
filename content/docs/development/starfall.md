@@ -41,3 +41,18 @@ If the name is not modified the result will be the same as `Player:getName()`.
 <br>
 Returns the nametag of the player.<br>
 Will be an empty string if the player doesn't have a nametag.
+
+- ![(Shared)](/states/shared.png) `Player:getTotalPlaytime()`
+<br>
+Returns the total amount of time the player has played on the server.<br>
+Convert this to hours with `UNIT.GMOD_TIME`.
+
+- ![(Shared)](/states/shared.png) `Player:getSessionPlaytime()`
+<br>
+Returns the time played on the server this session. Similar to `Player:getTimeConnnected()`.<br>
+Convert this to hours with `UNIT.GMOD_TIME`.
+
+- ![(Shared)](/states/shared.png) `Player:getBeforeSessionPlaytime()`
+<br>
+Returns playtime that doesn't count the current session.<br>
+Convert this to hours with `UNIT.GMOD_TIME`.
