@@ -6,6 +6,14 @@ title: "Starfall"
 
 # Functions
 
+- ![(Shared)](/states/shared.png) `fsb.getMSPT()`
+<br>
+Returns an average of how many milliseconds it took too process the last few ticks.
+
+- ![(Shared)](/states/shared.png) `fsb.getTPS()`
+<br>
+Returns the current server TPS calculated from MSPT.
+
 - ![(Shared)](/states/shared.png) `Player:isBUILD()`
 <br>
 Checks if the player is in build mode.
