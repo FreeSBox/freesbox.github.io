@@ -1,8 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
+headers = {
+	'User-Agent': "curl/8.23.0"
+}
+
 # Collection link
-response = requests.get("https://steamcommunity.com/sharedfiles/filedetails/?id=3586409043")
+response = requests.get("https://steamcommunity.com/sharedfiles/filedetails/?id=3586409043", headers=headers)
 html_doc = response.content
 
 soup = BeautifulSoup(html_doc, 'html.parser')
