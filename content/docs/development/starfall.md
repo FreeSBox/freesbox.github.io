@@ -64,3 +64,29 @@ Convert this to hours with `UNIT.GMOD_TIME`.
 <br>
 Returns playtime that doesn't count the current session.<br>
 Convert this to hours with `UNIT.GMOD_TIME`.
+
+- ![(Shared)](/states/shared.png) `Player:getBalance()`
+<br>
+Returns the player's balance.
+
+# Hooks
+
+- ![(Server)](/states/server.png) `FSBPlayerChangeName(player, old_name, new_name, persistent)`
+<br>
+Called when a player changes their name through FSB's custom name feature.
+The `persistent` argument means that the new name will save after re-logging.
+
+- ![(Server)](/states/server.png) `FSBPlayerChangeNameTag(player, old_name, new_name, persistent)`
+<br>
+Called when a player changes their name tag.
+The `persistent` argument means that the new tag will save after re-logging.
+
+- ![(Client)](/states/client.png) `FSBTransactionReceive(source, transaction_id, amount)`
+<br>
+Called when our client receives a transaction.  
+The `source` argument contains the owner account, it is usually the player's steamid64 or the MONEY_SERVER_MONEYPRINTER account.
+
+- ![(Client)](/states/client.png) `FSBTransactionAck(tmp_transaction_id, transaction_id, success)`
+<br>
+Called after we sent a transaction using `FSB.SendMoney`.
+The `tmp_transaction_id` argument is the same as the return of `FSB.SendMoney` in Lua.
