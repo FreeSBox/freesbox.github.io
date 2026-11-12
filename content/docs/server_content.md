@@ -6,7 +6,8 @@ title: "Контент сервера"
 
 # Аддоны с сервера
 
-Некоторые аддоны могут быть не указаны.
+> [!INFO]
+> Данный список обновляется довольно редко и может быть не актуален.
 
 ### Git
 
@@ -57,6 +58,7 @@ title: "Контент сервера"
 - [RagdollResizerPhys](https://github.com/NO-LOAFING/RagdollResizerPhys)
 - [rRadio](https://github.com/charles-mills/rRadio)
 - [simplethirdperson](https://github.com/Metastruct/simplethirdperson)
+- [tacrp](https://github.com/FreeSBox/tacrp)
 - [simple-weapons](https://github.com/TankNut/simple-weapons)
 - [simple-weapons-css](https://github.com/TankNut/simple-weapons-css)
 - [Sit](https://github.com/Xerasin/Sit-Anywhere)
@@ -114,9 +116,15 @@ title: "Контент сервера"
 - [Exidnost's Shared Content
 ](https://steamcommunity.com/sharedfiles/filedetails/?id=3769832801)
 - [Gesture Menu & Commands](https://steamcommunity.com/sharedfiles/filedetails/?id=145939873)
-- [Hoverboards](https://steamcommunity.com/sharedfiles/filedetails/?id=150455514)
-- [ttt_cigarette](https://steamcommunity.com/sharedfiles/filedetails/?id=1517464837)
-- [Heineken Beer SWEP](https://steamcommunity.com/sharedfiles/filedetails/?id=2853616849)
+- [Synergy Elite Buggy [Vehicle]](https://steamcommunity.com/sharedfiles/filedetails/?id=2962299500)
+- [Gm_novenka_improved](https://steamcommunity.com/sharedfiles/filedetails/?id=3616704696)
+- [gm_vyten](https://steamcommunity.com/sharedfiles/filedetails/?id=1449731878)
+- [Improved Easy Adv Ballsocket](https://steamcommunity.com/sharedfiles/filedetails/?id=798735267)
+- [Universal Weapon Offset](https://steamcommunity.com/sharedfiles/filedetails/?id=3558517247)
+- [Half-Life 2 Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=104619813)
+- [Restore Position (Context Menu)](https://steamcommunity.com/sharedfiles/filedetails/?id=3415418882)
+- [Context Menu Additions](https://steamcommunity.com/sharedfiles/filedetails/?id=3788337595)
+- [Anti Physgun-Pickup Property](https://steamcommunity.com/sharedfiles/filedetails/?id=3035697170)
 
 
 ### Binary modules
